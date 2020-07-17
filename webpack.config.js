@@ -39,5 +39,8 @@ module.exports = {
   resolve: {
     extensions: [".tsx", ".ts", ".js", ".jsx"]
   },
+  externals: {
+    "node-hid": 'commonjs node-hid'
+  },
   plugins: [new CleanWebpackPlugin()]
 };
