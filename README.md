@@ -1,6 +1,7 @@
 # Nodedecks
 
 **Open-source alternative for the Elgato Stream Deck software.**
+### Currently on hiatus, archived due to constant security reminders
 
 ## To Use
 From your command line:
